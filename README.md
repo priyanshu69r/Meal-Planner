@@ -55,7 +55,7 @@ To get a local copy up and running, follow these simple steps.
 
 Clone the repository (or create the files manually):
 
-git clone https://github.com/YOUR_USERNAME/personalized-meal-planner.git cd personalized-meal-planner 
+git clone https://github.com/priyanshu69/personalized-meal-planner.git cd personalized-meal-planner 
 
 Install dependencies:
 
