@@ -1,8 +1,8 @@
 {
-  "name": "personalized-meal-planner",
+  "name": "Meal-Planner",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://priyanshu69r.github.io/personalized-meal-planner/",
+  "homepage": "https://priyanshu69r.github.io/Meal-Planner/",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
